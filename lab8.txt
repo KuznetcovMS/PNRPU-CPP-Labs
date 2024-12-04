@@ -1,0 +1,20 @@
+Stadion name: Юность
+Year: 1980
+Amount Grounds: 12
+Type Sports: Каратэ Бег Футбол
+
+Stadion name: Молния
+Year: 2000
+Amount Grounds: 3
+Type Sports: Бег Гимнастика Лыжи
+
+Stadion name: Локомотив
+Year: 2002
+Amount Grounds: 6
+Type Sports: Футбол Воллейбол Баскетбол Хоккей
+
+Stadion name: Звезда
+Year: 1975
+Amount Grounds: 9
+Type Sports: Хоккей Футбол Бег
+
